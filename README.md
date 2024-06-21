@@ -1,4 +1,4 @@
-# machine-1-vier-sporen
+# machine 1: vier-sporen
 ISD1820 Lofi Sampler
 
 

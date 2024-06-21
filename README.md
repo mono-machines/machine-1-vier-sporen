@@ -11,7 +11,7 @@ While watching a build video by Lauri (see link below) I was very much charmed b
 
 Although I am trying my best to deliver the best quality standards I am still an amateur, an imposter in many fields of electronic instrument building. Therefor you may question my methods or raise an eyebrow every now and then. If it really is concerning, drop me a comment or write me an email and I will try to fix it or at least learn from it. Take in mind that this whole thing for me is a way to learn and get better and to make it into something I can spend my working days doing.
 <br><br>
-😅 SO, THEREFOR USING ANY OF THE GIVEN RESOURCES IS AT YOUR OWN RISK! 😅
+😅 SO, USING ANY OF THE GIVEN RESOURCES IS AT YOUR OWN RISK! 😅
 
 # References
 This project is based on research and work of others;

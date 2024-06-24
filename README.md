@@ -16,6 +16,23 @@ Although I am trying my best to deliver the best quality standards I am still an
 # References
 This project is based on research and work of others;
 
-Look Mum No Computer, Discourse Community: https://lookmumnocomputer.discourse.group/t/looper-sampler-isd1820-lo-fi/868/3 <br>
-Bastl & Casper Electronics: https://bastl-instruments.com/support/tutorials/omsynth-project-3 <br>
-Lauri's DIY Channel TV: https://www.youtube.com/watch?v=epjCe3o5BPA <br>
+Look Mum No Computer, Discourse Community: <br>
+https://lookmumnocomputer.discourse.group/t/looper-sampler-isd1820-lo-fi/868/3 <br>
+Bastl & Casper Electronics:<br> 
+https://bastl-instruments.com/support/tutorials/omsynth-project-3 <br>
+Lauri's DIY Channel TV:<br> 
+https://www.youtube.com/watch?v=epjCe3o5BPA <br>
+
+# Further development?
+If this version 1 is working as intended and if there is any interest coming from people who want this to go any further there are a couple of things I want to iterate on;
+1. Eurorack compatibility <br>
+I want to make the power section compatible with the Eurorack standard. Obviously because of the semi-modular nature of this machine, but also because I want the flexibility to incorporate it into my modular system.<br>
+2. Active flexibel bandpass filter <br>
+In version 1 of this machine I incorporated a passive low pass filter based on the schematics by Lauri (see link). I want to make this feature more flexibel and musical by changing it to an active bandpass filter with variabel band width.
+I feel neither a low pass or high pass filter will compliment the musicality of this machine. Because of its lofi character I believe finetuning the mid range of the sound will compliment its character. No clear design in mind by now, but might be a real feature upgrade.
+
+# Contents
+1. Kicad files PCB design
+2. Kicad files front panel
+3. iBOM + (sourcing) notes
+4. Illustrator design files

@@ -32,7 +32,7 @@ In version 1 of this machine I incorporated a passive low pass filter based on t
 I feel neither a low pass or high pass filter will compliment the musicality of this machine. Because of its lofi character I believe finetuning the mid range of the sound will compliment its character. No clear design in mind by now, but might be a real feature upgrade.
 
 # Contents
-The following files are available for you to use (at your own risk).<br>
+The following files are available for you to use (at your own risk). Mind that I did not include fonts etc. I used within the designs, but I know you will find them online.
 1. Kicad files PCB design
 2. Kicad files front panel
 3. iBOM + (sourcing) notes
